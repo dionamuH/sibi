@@ -6,7 +6,6 @@ app = Flask(__name__, template_folder='templates', static_folder="static")
 @app.route('/', methods=["GET", "POST"])
 def index():
     if request.method == 'POST':
-        # Handle form submission or any other POST request here if needed
         pass
     return render_template('index.html', **locals())
 
