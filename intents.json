@@ -2,7 +2,7 @@
     "intents": [
     {
     "tag": "introduction",
-    "patterns": ["hello", "good day", "i hail o", "hola", "how far?", "whats up?", "good morning", "good afternoon", "hello hello", "good evening", "hey", "hey hey", "hi", "hi hi", "good day", "how is it going?", "wassup?", "wozup?", "how far na?", "is anyone there?", "knock knock, Sibi hello", "good day Sibi", "Sibi good day", "Sibi how far?", "how far Sibi?", "whats up Sibi?", "Sibi whats up?", "good morning Sibi", "Sibi good morning", "good afternoon Sibi", "good evening Sibi", "hey Sibi", "hey hey Sibi", "hi Sibi", "hi hi Sibi", "how is it going Sibi?", "wassup Sibi?", "wozup Sibi?","oya talk", "how far na Sibi?", "Sibi are you there?", "knock knock Sibi"],
+    "patterns": ["hello", "good day", "hola", "how far?", "whats up?", "good morning", "good afternoon", "hello hello", "good evening", "how is it going?", "wassup?", "wozup?", "good day Sibi", "hey Sibi", "hey hey Sibi", "hi Sibi"],
     "responses": ["Welcome. I am Sibi. Here to asist in your learning Pidgin English.\nCategories Available: Sentence Structure, Expressions, Traits, Action, Pleasantries, Quiz, and Random Nigerian Facts.\nHow to Explore Categories:\nType a category you're interested in, like 'sentences' or 'traits.'\nPress 'Enter' and a navigation button will appear.\nClick the button to explore content in your chosen category.\nWhen done, type a new category and repeat the process.\nEnjoy exploring and learning!",
       
       "Good day, I am Sibi. Here to help you learn Pidgin English.\nI offer the following categories: Sentence Structure, Expressions, Traits, Action, Pleasantries, Quiz, and Random Nigerian Facts. \nHow to Explore Categories:\nType a category you're interested in, like 'sentences' or 'traits.'\nPress 'Enter' and a navigation button will appear.\nClick the button to explore content in your chosen category.\nWhen done, type a new category and repeat the process.\nEnjoy exploring and learning!", 
@@ -12,7 +12,7 @@
     },
     {
     "tag": "Sentence",
-    "patterns": ["sentences", "sentence","sent","senten","sentence structure", "more sentences", "more sentence","SENTENCES", "structure"],
+    "patterns": ["sentences"],
     "responses": [
     "In the Sentence Structure category, You will learn basic sentence structure which includes conjugations, filler words and simples sentences. At the end of this category, you should be able to construct basic sentences.\nHere's the conjugation of the verb 'To be' in Pidgin:\nI be - (I am).\nYou be or You dey - (You are).\nHe/She/e be - (He/She/It is).\nWe be - (We are).\nDem be or Dem dey - (They are).",
 
