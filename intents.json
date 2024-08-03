@@ -7,12 +7,7 @@ I have chosen to share only partial content here. Thank you for your understandi
     {
     "tag": "introduction",
     "patterns": ["hello", "good day", "hola", "how far?", "whats up?", "good morning", "good afternoon", "hello hello", "good evening", "how is it going?", "wassup?", "wozup?", "good day Sibi", "hey Sibi", "hey hey Sibi", "hi Sibi"],
-    "responses": ["Welcome. I am Sibi. Here to asist in your learning Pidgin English.\nCategories Available: Sentence Structure, Expressions, Traits, Action, Pleasantries, Quiz, and Random Nigerian Facts.\nHow to Explore Categories:\nType a category you're interested in, like 'sentences' or 'traits.'\nPress 'Enter' and a navigation button will appear.\nClick the button to explore content in your chosen category.\nWhen done, type a new category and repeat the process.\nEnjoy exploring and learning!",
-      
-      "Good day, I am Sibi. Here to help you learn Pidgin English.\nI offer the following categories: Sentence Structure, Expressions, Traits, Action, Pleasantries, Quiz, and Random Nigerian Facts. \nHow to Explore Categories:\nType a category you're interested in, like 'sentences' or 'traits.'\nPress 'Enter' and a navigation button will appear.\nClick the button to explore content in your chosen category.\nWhen done, type a new category and repeat the process.\nEnjoy exploring and learning!", 
-    
-    "Hello, I am Sibi. Let me teach you Pidgin English.\nSee Available Categories: Sentence Structure, Expressions, Traits, Action, Pleasantries, Quiz, and Random Nigerian Facts. \nHow to Explore Categories:\nType a category you're interested in, like 'sentences' or 'traits.'\nPress 'Enter' and a navigation button will appear.\nClick the button to explore content in your chosen category.\nWhen done, type a new category and repeat the process.\nEnjoy exploring and learning!"
-  ]
+     ]
     },
     {
     "tag": "Sentence",
@@ -20,14 +15,5 @@ I have chosen to share only partial content here. Thank you for your understandi
     "responses": [
     "In the Sentence Structure category, You will learn basic sentence structure which includes conjugations, filler words and simples sentences. At the end of this category, you should be able to construct basic sentences.\nHere's the conjugation of the verb 'To be' in Pidgin:\nI be - (I am).\nYou be or You dey - (You are).\nHe/She/e be - (He/She/It is).\nWe be - (We are).\nDem be or Dem dey - (They are).",
 
-    "To do in pidgin the word 'sabi', encompasses to do/make/know/understand.\nHere's the conjugation of the verb 'To do' or 'sabi':\nI sabi,\nYou sabi,\nHe/She/e sabi,\nWe sabi, \nDem sabi.",
-
-    "'To have' in pidgin is 'to get'. Here's the conjugation of the verb:\nI get - (I have).\nYou get - (You have).\nHe/She/e get - (He/She/It has).\nWe get - (We have).\nDem get - (They have).\n\n Past tense for to have(To get) is I don - (I already):\n I don tell am - (I told him/her)\nYou don see am? - (Have you seen it?).\n\n I neva - (To Not have/do).\nI neva chop - (I havent eaten).\nI neva see am - (I havent seen it).",
-
-    "Here's the conjugation of the verb 'To go':\nI dey go/commot - (I am going/leaving).\nYou dey go/commot - (You are going/leaving).\nHe/She/e dey go/commot - (He/She/It is going/leaving).\nWe dey go/commot - (We are going/leaving).\nDem dey go/commot - (They are going/leaving).\n\n To do (future tense) is 'I go'(I will):\n I go call you tomorrow - (I will call you tomorrow).\nI go follow am talk - (I will talk to him/her)",
-
-    "In pidgin, although there are similarities in english, certain words are different... Lets call them fillers.\nHere are some of them:\nWan/Won (wahn/wohn) - (Want).\nWetin (waytin) - (What).\nYarn/Gist - (Narrate/Chat).\nFollow me - (With/To Me). Example: Follow me talk - 'talk to me'.\nFollow me go -'Go with me'.\nChop - (Eat).\nWaka - (Walk).",
-        
-    "End of 'Sentence structure'. Move on to 'Expressions' or take the quiz if you think you're ready."
-    ]
+    "To do in pidgin the word 'sabi', encompasses to do/make/know/understand.\nHere's the conjugation of the verb 'To do' or 'sabi':\nI sabi,\nYou sabi,\nHe/She/e sabi,\nWe sabi, \nDem sabi.",]
     }
